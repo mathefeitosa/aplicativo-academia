@@ -1,0 +1,7 @@
+{
+  "name": "aplicativo-academia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

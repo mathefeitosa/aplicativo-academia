@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "aplicativo-academia",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
